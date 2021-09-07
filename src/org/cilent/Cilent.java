@@ -10,6 +10,12 @@ public class Cilent extends CompanyDetails {
 	public void cilentNumber() {
 System.out.println("the cilent  number is 9786286495");
 	}
+	public void cilentId() {
+		System.out.println("the cilent  number is 9786286495");
+			}
+
+	
+	
 	public static void main(String[] args) {
 		Cilent c =new Cilent();
 		c.empName();
